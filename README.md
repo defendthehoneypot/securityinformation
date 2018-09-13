@@ -9,6 +9,8 @@
 * http://blog.trendmicro.com/trendlabs-security-intelligence/
 
 # <p align="center">Training - this is a collection of sites and tools that have good training</p>
+* https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276?l=r54IrOWy_2304984382 - Microsoft Powershell Training
+* https://powershelltutorial.net - Powershell Training
 * https://cobaltstrike.com/training - Advanced Threat Tactic training videos
 * http://malware-traffic-analysis.net/ - Training
 * https://www.alienvault.com/blogs/security-essentials/configuring-kali-linux-on-amazon-aws-cloud-for-free?utm_medium=Social&utm_source=Twitter&utm_content=Awareness - Configuring a free Kali instance in AWS
